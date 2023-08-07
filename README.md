@@ -22,4 +22,4 @@ The mini Tomasulo project aims to demonstrate the performance of the Tomasulo al
 2. Execute the program and follow the on-console instructions
 ## Contributing
 
-Contributions to the E.U.R.O project are welcome. If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
+Contributions to the Tomasulo project are welcome. If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
