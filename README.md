@@ -20,6 +20,11 @@ The mini Tomasulo project aims to demonstrate the performance of the Tomasulo al
    git clone https://github.com/karim-walid-wahdan/Tomasulo.git
    ```
 2. Execute the program and follow the on-console instructions
+<h1>Authors</h1>
+<ul>
+  <li><a href="https://github.com/karim-walid-wahdan">Karim Wahdan</a></li>
+  <li><a href="https://github.com/MostKhalifa">Mostafa Khalifa</a></li>
+</ul>
 ## Contributing
 
 Contributions to the Tomasulo project are welcome. If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
